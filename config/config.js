@@ -1,4 +1,4 @@
-const host = "https://webtv-6g10tti967269c07-1254317835.ap-shanghai.app.tcloudbase.com"
+const host = "http://hdtv.haust.edu.cn"
 const version = "v1"
 const versionDetail = "1.1.0"
 module.exports = {
