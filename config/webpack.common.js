@@ -38,7 +38,7 @@ module.exports = {
                 }
             ],
             ios: {
-                "apple-mobile-web-app-title": "东北大学HDTV",
+                "apple-mobile-web-app-title": "TV",
                 'apple-mobile-web-app-status-bar-style': 'black'
             },
             lang: "zh-CN",
