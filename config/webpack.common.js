@@ -13,7 +13,7 @@ module.exports = {
             favicon: path.resolve(__dirname, "../src/icon/icon.png")
         }),
         new WebpackPwaManifest({
-            name: "东北大学HDTV",
+            name: "tv-TV",
             short_name: "HDTV",
             start_url: "/v1",
             description: "HDTV, 高清, 快速, 简洁",
@@ -38,7 +38,7 @@ module.exports = {
                 }
             ],
             ios: {
-                "apple-mobile-web-app-title": "TV",
+                "apple-mobile-web-app-title": "IPTV",
                 'apple-mobile-web-app-status-bar-style': 'black'
             },
             lang: "zh-CN",
